@@ -1,0 +1,7 @@
+com\example\plexora\responseHandler\responseHandler.class
+com\example\plexora\PlexoraSoftApplication.class
+com\example\plexora\UserWrapper.class
+com\example\plexora\User.class
+com\example\plexora\UserService.class
+com\example\plexora\UserController.class
+com\example\plexora\UserRepository.class
