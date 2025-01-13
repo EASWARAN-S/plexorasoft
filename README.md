@@ -1,3 +1,8 @@
+
+mvn clean package
+target/plexora-0.0.1snapshot.jar
+
+java -jar target/filename.jar
 {
   "email" : "skdh@gmail.com",
   "name": "easwaran",
